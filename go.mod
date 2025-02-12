@@ -1,5 +1,5 @@
 module github.com/mattfarina/dc-hello-world
 
-go 1.17
+go 1.23
 
-require github.com/Masterminds/log-go v0.4.0
+require github.com/Masterminds/log-go v1.0.0
