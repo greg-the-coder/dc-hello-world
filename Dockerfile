@@ -1,7 +1,7 @@
 # syntax=docker/dockerfile:1.3
 
 # Build the Go Binary
-FROM registry.suse.com/bci/golang:1.17 as build
+FROM registry.suse.com/bci/golang:1.23 as build
 
 WORKDIR /app
 
