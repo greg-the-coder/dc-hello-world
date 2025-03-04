@@ -5,7 +5,17 @@
 	},
 	"remoteEnv": {
         	"CODER": "devcontainer"
-    },
+        },
+		// Configure tool-specific properties.
+	"customizations": {
+		// Configure properties specific to VS Code.
+		"vscode": {
+			"settings": {},
+			"extensions": [
+				"golang.go"
+			]
+		}
+	},
 	// Use 'postCreateCommand' to run commands after the container is created.
 	"postCreateCommand": "curl -L https://coder.com/install.sh | sh"
 }
