@@ -12,7 +12,7 @@
 		"vscode": {
 			"settings": {},
 			"extensions": [
-				"@id:golang.go"
+				"golang.go"
 			]
 		}
 	},
