@@ -10,3 +10,4 @@ This is sometimes used when demonstrating [Coder](https://coder.com/) deployed o
 
 #Tested with the following Coder templates:
 * aws-devcontainer
+* kubernetes-devcontainer
