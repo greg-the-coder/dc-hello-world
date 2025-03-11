@@ -7,3 +7,6 @@ This is a Hello World Go example that uses:
 * [Coder Envbuilder](https://coder.com/docs/admin/templates/managing-templates/devcontainers/add-devcontainer#envbuilder-terraform-provider) for remote enterprise Cloud development
 
 This is sometimes used when demonstrating [Coder](https://coder.com/) deployed on [Rancher Desktop](https://rancherdesktop.io).
+
+#Tested with the following Coder templates:
+* aws-devcontainer
